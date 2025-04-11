@@ -152,48 +152,11 @@ http://watchindia.net:8880/live/40972/04523/840.m3u8
 http://watchindia.net:8880/live/40972/04523/813.m3u8
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=KAIOS
 http://watchindia.net:8880/live/40972/04523/822.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=KAIOS
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/sangeetbhojpuri2.mpd
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=KAIOS
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=KAIOS
-http://watchindia.net:8880/live/40972/04523/842.m3u8
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/-pictures/drmLicense
-https://otttv.co.in/d2h/livestream/-pictures/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/-tv/drmLicense
-https://otttv.co.in/d2h/livestream/-tv/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/24-ghanta/drmLicense
-https://otttv.co.in/d2h/livestream/24-ghanta/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/9x-jalwa/drmLicense
-https://otttv.co.in/d2h/livestream/9x-jalwa/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/9x-jhakaas/drmLicense
-https://otttv.co.in/d2h/livestream/9x-jhakaas/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/9x-tashan/drmLicense
-https://otttv.co.in/d2h/livestream/9x-tashan/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/9xm/drmLicense
-https://otttv.co.in/d2h/livestream/9xm/manifest.mpd
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ejnlyj.png",Balle Balle
 https://otttv.co.in/d2h/livestream/balle-balle/master.m3u8
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/dd-bharati/drmLicense
-https://otttv.co.in/d2h/livestream/dd-bharati/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/dd-national/drmLicense
-https://otttv.co.in/d2h/livestream/dd-national/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-channel/drmLicense
-https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-kids/drmLicense
-https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-science/drmLicense
-https://otttv.co.in/d2h/livestream/discovery-science/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-turbo/drmLicense
-https://otttv.co.in/d2h/livestream/discovery-turbo/manifest.mpd
 #EXTINF:-1 group-title="Spiritual" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lkfhpj.jpeg",Divya
 https://otttv.co.in/d2h/livestream/divya/master.m3u8
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/epic-tv/drmLicense
-https://otttv.co.in/d2h/livestream/epic-tv/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/et-now/drmLicense
-https://otttv.co.in/d2h/livestream/et-now/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/fakt-marathi/drmLicense
-https://otttv.co.in/d2h/livestream/fakt-marathi/manifest.mpd
 #EXTINF:-1 group-title="News" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/vrandh.png",France 24
 https://otttv.co.in/d2h/livestream/france-24/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/mhvtws.png",India New Gujarat
@@ -208,34 +171,10 @@ https://otttv.co.in/d2h/livestream/india-news-uttar-pradesh--uttrakhand/master.m
 https://otttv.co.in/d2h/livestream/india--news/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bgfvws.png",India TV
 https://otttv.co.in/d2h/livestream/india-tv/master.m3u8
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/investigation-discovery/drmLicense
-https://otttv.co.in/d2h/livestream/investigation-discovery/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/korean-drama-active/drmLicense
-https://otttv.co.in/d2h/livestream/korean-drama-active/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/movies-now-hd/drmLicense
-https://otttv.co.in/d2h/livestream/movies-now-hd/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mnx-hd/drmLicense
-https://otttv.co.in/d2h/livestream/mnx-hd/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mn-plus-hd/drmLicense
-https://otttv.co.in/d2h/livestream/mn-plus-hd/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mtv-beats/drmLicense
-https://otttv.co.in/d2h/livestream/mtv-beats/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/music-india/drmLicense
-https://otttv.co.in/d2h/livestream/music-india/manifest.mpd
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/naaptol-telugu.png",Naaptol Telugu
 https://otttv.co.in/d2h/livestream/naaptol-telugu/master.m3u8
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/ndtv-24x7/drmLicense
-https://otttv.co.in/d2h/livestream/ndtv-24x7/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/news-nation/drmLicense
-https://otttv.co.in/d2h/livestream/news-nation/manifest.mpd
 #EXTINF:-1 group-title="News" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/slvoly.png",News X
 https://otttv.co.in/d2h/livestream/news-x/master.m3u8
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/news18-india/drmLicense
-https://otttv.co.in/d2h/livestream/news18-india/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/news18-rajasthan/drmLicense
-https://otttv.co.in/d2h/livestream/news18-rajasthan/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/news18-uttar-pradesh-uttrakhand/drmLicense
-https://otttv.co.in/d2h/livestream/news18-uttar-pradesh-uttrakhand/manifest.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dydzlx.png",Pitaara
 https://otttv.co.in/d2h/livestream/pitaara/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/r-bangla.png",Republic Bangla
@@ -244,24 +183,14 @@ https://otttv.co.in/d2h/livestream/r-bangla/master.m3u8
 https://otttv.co.in/d2h/livestream/republic-bharat/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ctxfzq.png",Republic TV
 https://otttv.co.in/d2h/livestream/republic-tv/master.m3u8
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/romedy-now/drmLicense
-https://otttv.co.in/d2h/livestream/romedy-now/manifest.mpd
 #EXTINF:-1 group-title="Kids" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/veawzl.png",Rongeen TV
 https://otttv.co.in/d2h/livestream/rongeen-tv/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/russia-today.png",Russia Today
 https://otttv.co.in/d2h/livestream/russia-today/master.m3u8
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/sangeet-bangla/drmLicense
-https://otttv.co.in/d2h/livestream/sangeet-bangla/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/sansad-tv-sd/drmLicense
-https://otttv.co.in/d2h/livestream/sansad-tv-sd/manifest.mpd
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/sansad-tv-hd/drmLicense
-https://otttv.co.in/d2h/livestream/sansad-tv-hd/manifest.mpd
 #EXTINF:-1 group-title="Spiritual" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/odkbmd.png",Sanskar TV
 https://otttv.co.in/d2h/livestream/sanskar-tv/master.m3u8
 #EXTINF:-1 group-title="Spiritual" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xtbali.png",Satsang HD
 https://otttv.co.in/d2h/livestream/satsang-tv/master.m3u8
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/shorts-tv-active/drmLicense
-https://otttv.co.in/d2h/livestream/shorts-tv-active/manifest.mpd
 #EXTINF:-1 group-title="Spiritual" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/shubh-tv.png",Shubh TV HD
 https://otttv.co.in/d2h/livestream/shubh-tv/master.m3u8
 #EXTINF:-1 group-title="Spiritual" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qjucjr.jpeg",Sai Leela

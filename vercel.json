@@ -1,0 +1,11 @@
+{
+  "routes": [
+    {
+      "src": "/playlist.m3u",
+      "headers": {
+        "Content-Type": "application/vnd.apple.mpegurl"
+      },
+      "dest": "/playlist.m3u"
+    }
+  ]
+}

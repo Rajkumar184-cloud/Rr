@@ -80,6 +80,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://watchindia.net:8880/live/40972/04523/1955.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5PoYLuRBTRrIqg_Te-Lc-EjsCN3bZzBZpUrQyzVITKuzmNBfAwfPXTg&s=10",9x TASHAN
 http://watchindia.net:8880/live/40972/04523/1950.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.postimg.cc/gcqkG0Lq/images-1.jpg", & pictures hd
+http://watchindia.net:8880/live/40972/04523/783.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.postimg.cc/gcqkG0Lq/images-1.jpg", &tv hd 
+http://watchindia.net:8880/live/40972/04523/782.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.postimg.cc/gcqkG0Lq/images-1.jpg",T L C (hindi) 
+http://watchindia.net:8880/live/40972/04523/840.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/gcqkG0Lq/images-1.jpg", Zee Anmol 
+http://watchindia.net:8880/live/40972/04523/813.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/gcqkG0Lq/images-1.jpg", Zee Bollywood 
+http://watchindia.net:8880/live/40972/04523/822.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1iD6IX0Pi0JlGltizmKbteZhNK-D4L-Dr3wMFuj_NolOEDbxTSHC7YRg&s=10",E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_256k.m3u8
 #EXTINF:-1  tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U MUSIC

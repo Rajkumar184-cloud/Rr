@@ -142,17 +142,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/8Xq5NgM/20240804-145843.png",SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=KAIOS
-http://watchindia.net:8880/live/40972/04523/783.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=KAIOS
-http://watchindia.net:8880/live/40972/04523/782.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=KAIOS
-http://watchindia.net:8880/live/40972/04523/840.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=KAIOS
-http://watchindia.net:8880/live/40972/04523/813.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=KAIOS
-http://watchindia.net:8880/live/40972/04523/822.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ejnlyj.png",Balle Balle
 https://otttv.co.in/d2h/livestream/balle-balle/master.m3u8
 #EXTINF:-1 group-title="Spiritual" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lkfhpj.jpeg",Divya

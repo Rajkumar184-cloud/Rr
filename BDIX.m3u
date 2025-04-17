@@ -22,8 +22,10 @@ https://tv.bdixtv24.co/ayna/playlist.php?id=20714fd4-dc3c-46d6-924f-3038d61f027c
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="BD.BANG.CH ( BDIX )" tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png",GLOBAL TV
 https://tv.bdixtv24.co/ayna/playlist.php?id=0ac6af3d-acce-4d9d-9ce5-32d4b53f9326&e=.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Cinema_HD.png", Zee Cinema  https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Cinema_HD.png", Zee Cinema HD https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Cinema_HD.png", Zee Cinema  
+https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Cinema_HD.png", Zee Cinema HD 
+https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://14.102.123.50:5001/jtvimage/Zing.png", Zing https://live.drmlive-02.workers.dev/zee/zing.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_One_present_logo.png/512px-Zee_One_present_logo.png", Zee One
 https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
